@@ -1,8 +1,9 @@
 # VHDL Calculator Project
+Project for MECHENG 371 - Digital Circuit Design
 
 ## Authors:
-Alex Ruddell
-Morgan Davies
+- Alex Ruddell (2019)
+- Morgan Davies (2019)
 
 ## Project Description
 In this project, a FPGA with I/O peripherals was used to design a Calculator in Verilog HDL language. This calculator implements the addition, subtraction, multiplication, and division operations of a normal calculator.
